@@ -1,0 +1,16 @@
+/*comment*/
+/* selecred tag{
+  property:value;
+} */
+h1{
+  color: blue;
+}
+li{
+  color: rgb(67,230,145);
+}
+p{
+  color: #1a87ab;
+}
+h4{
+  color: rgba(245, 141, 37, 0.8);
+}
