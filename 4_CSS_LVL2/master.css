@@ -1,0 +1,35 @@
+h1{
+  font-family: 'GuillermonkeyMedium';
+font-weight: normal;
+font-style: normal;
+margin: auto;
+text-align: center;
+}
+.pallets{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+td{
+  border-left:  30px solid white;
+  height: 400px;
+  width: 200px;
+  margin: 80px 80px 80px 80px;
+}
+
+#p1{
+  background: #083D77;
+}
+#p2{
+  background: #EBEBD3;
+}
+#p3{
+  background: #F4D35E;
+}
+#p4{
+  background: #EE964B;
+}
+#p5{
+  background: #F95738;
+}
